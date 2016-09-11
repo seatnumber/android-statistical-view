@@ -5,8 +5,8 @@
     android:layout_height="match_parent"
     android:background="#ffffff">
 
-    <com.github.seatnumber.library.view.ArcView
-        android:id="@+id/arcView"
+    <com.github.seatnumber.library.view.HistogramView
+        android:id="@+id/histogramView"
         android:layout_width="200dp"
         android:layout_height="100dp"
         android:layout_centerVertical="true"
