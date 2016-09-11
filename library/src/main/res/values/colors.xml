@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rustyOrange">#cf5109</color>
+    <color name="murkyGreen">#5e7c0b</color>
+    <color name="lightOrange">#fba03e</color>
+    <color name="snotGreen">#92c700</color>
+    <color name="palePeach">#ffd899</color>
+    <color name="apricot">#ffc466</color>
+    <color name="mango">#ffa633</color>
+    <color name="orangeTwo">#ff7000</color>
+    <color name="pumpkinOrange">#ff7700</color>
+    <color name="mangoTwo">#ffa628</color>
+    <color name="lightGold">#ffcc53</color>
+    <color name="yellowTan">#ffdc7a</color>
+    <color name="palePeachTwo">#fee4a4</color>8
+    <color name="whiteTwo">#f2f2f2</color>
+
+</resources>
